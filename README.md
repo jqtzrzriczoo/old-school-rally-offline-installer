@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+This collection of 10 unique paint jobs lets you represent the new USA map "Angel Shores", as well as its sights and secret spots, while you drive the streets of Angel Shores and Seaside Valley.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 64-Bit | macOS 11.0 or later |
+| **Processor** | Min: Intel Core i3-2120 / AMD Phenom II X4 830 or higher / Rec: Intel Core i5-4440 / AMD FC-8140z or higher | Intel Core i5 / Apple M1 |
+| **Memory** | 8 GB RAM | 8 GB RAM |
+| **Graphics** | Min: NVIDIA GeForce GTX 760 (2GB VRAM) / AMD Radeon R9 280 (… / Rec: NVIDIA GeForce GTX 1070 (8GB VRAM) / AMD Radeon RX Vega… | Metal-capable GPU |
+| **DirectX** | Version 12 | Version 12 |
+| **Storage** | 18 GB available space | 18 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
 
 ---
 
